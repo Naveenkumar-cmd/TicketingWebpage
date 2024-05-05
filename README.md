@@ -1,4 +1,4 @@
 # TicketingWebpage
-This is a dummy ticketing webpage built using HTML, CSS and Javascript.
+This dummy ticketing webpage is built using HTML, CSS, and JavaScript.
 # Event Handling 
-Done using Javascript with previously defined ticket price for an adult and a child.
+It is done using Javascript with previously defined ticket prices for an adult and a child.
